@@ -1,0 +1,15 @@
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\bin\Debug\net6.0\Zadacha_2.exe
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\bin\Debug\net6.0\Zadacha_2.deps.json
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\bin\Debug\net6.0\Zadacha_2.runtimeconfig.json
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\bin\Debug\net6.0\Zadacha_2.dll
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\bin\Debug\net6.0\Zadacha_2.pdb
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.csproj.AssemblyReference.cache
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.AssemblyInfoInputs.cache
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.AssemblyInfo.cs
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.csproj.CoreCompileInputs.cache
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.dll
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\obj\Debug\net6.0\refint\Zadacha_2.dll
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.pdb
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\obj\Debug\net6.0\Zadacha_2.genruntimeconfig.cache
+G:\GeekBrains\DZ\Peregudov_V_V_Urok_1\Zadacha_2\obj\Debug\net6.0\ref\Zadacha_2.dll
