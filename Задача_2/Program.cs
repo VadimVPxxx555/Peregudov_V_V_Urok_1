@@ -11,5 +11,3 @@ else
 {
     Console.WriteLine ($"max = {number1}");
 }
-
-//Console.WriteLine ($"квадрат числа {number} = {square}");
