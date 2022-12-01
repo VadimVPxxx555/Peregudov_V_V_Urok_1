@@ -5,9 +5,11 @@ Console.WriteLine("Введите второе число");
 int number2 = int.Parse(Console.ReadLine());
 if (number1<number2)
 {
-    Console.WriteLine ("первое число меньше второго");
+    Console.WriteLine ($"max = {number2}");
 }
 else
 {
-    Console.WriteLine ("первое число больше второго");
+    Console.WriteLine ($"max = {number1}");
 }
+
+//Console.WriteLine ($"квадрат числа {number} = {square}");
